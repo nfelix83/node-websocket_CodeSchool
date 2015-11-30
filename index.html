@@ -1,0 +1,71 @@
+<html>
+<head>
+
+</head>
+<body>
+<textarea id='chat_box' rows='15' cols='50'>
+</textarea>
+<form id='chat_form'>
+	<input id='chat_input' type='text' name='chat_message'>
+	<input type="submit" value="Submit">
+</form>
+<ul id='chatters'>
+<ul>
+<script src="/socket.io/socket.io.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+var socket = io.connect('76.14.206.104');
+
+function getName() {
+	var nickname = '';
+	while(nickname == ''){
+		nickname = prompt('Nickname? ');
+	}
+	return nickname;
+}
+var connecting = true;
+socket.on('init', function(){
+	var name = getName();
+	socket.emit('connecting', name);
+	socket.on('connected', function(){
+		connecting = false;			
+		console.log('here');
+		socket.emit('join', name);
+	});
+	socket.on('connecting', function(){
+		var name = getName();
+		socket.emit('connecting', name);
+		tryCount++;
+	});
+});
+
+var insertMessage = function(message){
+	$('#chat_box').val($('#chat_box').val() + message + '\n');
+};
+
+socket.on('message', function(message){
+	console.log('fired');
+	insertMessage(message);
+});
+
+socket.on('add chatter', function(name) {
+	var chatter = $('<li>'+name+'</li>').attr('data-name', name);
+	$('#chatters').append(chatter);
+});
+
+socket.on('remove chatter', function(name) {
+	$('#chatters li[data-name=' + name + ']').remove();
+});
+
+$('#chat_form').submit(function(e){
+	e.preventDefault();
+	var message = $('#chat_input').val();
+	if(message != '') {
+		socket.emit('message', message);
+	}
+	$('#chat_input').val('');
+});
+</script>
+
+</body>
+</html>

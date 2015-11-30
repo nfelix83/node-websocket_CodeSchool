@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"reds",
+				"redisClient"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"chat_",
+				"chat_box"
+			],
+			[
+				"open",
+				"openedLocal"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"qery",
+				"queryType"
+			],
+			[
+				"file",
+				"filesys"
+			],
+			[
+				"t",
+				"Text"
+			],
+			[
+				"wri",
+				"writeHeader"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"menu",
+				"menuItems"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"items",
+				"itemsObj"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"quiz-submit",
+				"quiz-submit-div"
+			],
+			[
+				"quiz",
+				"quiz-button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1529,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pc",
+		"selected_items":
+		[
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: confirm"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 403.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"package control",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Eeda/Desktop/projects/nodeSock.cs",
+		"/C/Users/Eeda/Desktop/projects/nodeSock.cs/node_modules"
+	],
+	"file_history":
+	[
+		"/C/Users/Eeda/Desktop/projects/TH - NodeJS/gulpfile.js",
+		"/C/Users/Eeda/Desktop/projects/TH - NodeJS/package.json",
+		"/C/Users/Eeda/Desktop/projects/TH - NodeJS/app.js",
+		"/C/Users/Eeda/Desktop/projects/BookAPI/app.js",
+		"/C/Users/Eeda/Desktop/projects/BookAPI/gulpfile.js",
+		"/C/Users/Eeda/Desktop/BookAPI/package.json",
+		"/C/Users/Eeda/Desktop/BookAPI/app.js",
+		"/C/Users/Eeda/Desktop/BookAPI/Tests/bookIntegrationTests.js",
+		"/C/Users/Eeda/Desktop/BookAPI/Routes/bookRoutes.js",
+		"/C/Users/Eeda/Desktop/BookAPI/Tests/bookControllerTests.js",
+		"/C/Users/Eeda/Desktop/BookAPI/controllers/bookController.js",
+		"/C/Users/Eeda/Desktop/BookAPI/models/bookModel.js",
+		"/C/Users/Eeda/Desktop/BookAPI/gulpfile.js",
+		"/C/Users/Eeda/Documents/Mercado Site/Mercado.html",
+		"/C/Users/Eeda/Documents/Mercado Site/local.css",
+		"/C/Users/Eeda/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Eeda/Desktop/NodeProject/bookAPI.sublime-project",
+		"/C/Users/Eeda/Documents/Mercado Site/Merc - Menu/merc - menu.css",
+		"/C/Users/Eeda/Documents/Mercado Site/Merc - Menu/Merc Menu.html",
+		"/C/Users/Eeda/Desktop/nodeServer/example.txt",
+		"/C/Users/Eeda/Desktop/nodeServer/myWebServer.js",
+		"/C/Users/Eeda/Documents/Mercado Site/Merc - Menu/local - Carousel.css",
+		"/C/Users/Eeda/Documents/Mercado Site/Merc - Menu/Menus and Services - Alpha —.html",
+		"/C/Users/Eeda/Documents/Mercado Site/local - banner.css",
+		"/C/Users/Eeda/Documents/Mercado Site/Banner template.html",
+		"/C/Users/Eeda/Documents/Mercado Site/local - Carousel.css",
+		"/C/Users/Eeda/Documents/Mercado Site/dog-breed-quiz-draft.html",
+		"/C/Users/Eeda/Documents/Mercado Site/Index.html",
+		"/C/Users/Eeda/Documents/CURRENT PROJECT/quiz.html",
+		"/C/Users/Eeda/Documents/CURRENT PROJECT/Dog Breed Quizzes - Save a Rescue.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<p>MENU",
+			"</p>",
+			"<p>",
+			"SITE",
+			"#slide1-text,\n#slide2-text,\n#slide3-text,\n#slide4-text",
+			"#slide1-text,\n    #slide2-text,\n    #slide3-text,\n    #slide4-text",
+			"id='slide",
+			"1",
+			"#slide1-text,\n    #slide2-text,\n    #slide3-text,\n    #slide4-text",
+			"#slide1-text,\n#slide2-text,\n#slide3-text,\n#slide4-text",
+			".image-text",
+			".image-text-box",
+			"item",
+			".img-responsive",
+			"#myCarousel",
+			"\");\n",
+			"docum",
+			")",
+			"(",
+			")",
+			"(",
+			"nav-lef",
+			"Cocker Spaniel",
+			"Cocker Spanial",
+			"Chnese Crested Dog",
+			"Chinese Crested/Hairless",
+			"Chesapeak Bay Retriever",
+			"Bouviere des Flandres",
+			"Black and Tan",
+			"Bernese Mountain Dog",
+			"Bernese Mountain dog",
+			"Belgian tervuren",
+			"Belgian Terverun",
+			"Belgain Tervuren",
+			"Bedlington'",
+			"Beauceron'",
+			"Beauceron '",
+			"Beauceron ",
+			"Beauceron",
+			"\"Beauceron \"",
+			"Bassett",
+			"Anatolian Shepherd,",
+			"Anatolian Shepherd",
+			"American Staffordshirre",
+			"Affenpinshcer",
+			"Xoloitzcuintli [Mexican Hairless]",
+			"Mexican Hairless",
+			"find",
+			"mexican h",
+			"&",
+			"value=\"Q1A1\"",
+			"input type="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<p class=\"menu-item-nav\">MENU",
+			"",
+			"WEBSITE",
+			".slide-text",
+			"class='slide",
+			"#bannerText",
+			".bannerText",
+			"#bannerTextBox",
+			"#bannerImage",
+			"#myBanner",
+			"]",
+			"[",
+			"]",
+			"[",
+			"Chinese Crested Dog",
+			"Chesapeake Bay Retriever",
+			"Bouvier des Flandres",
+			"Black & Tan",
+			"Bernese Mountain Dog",
+			"Belgian Tervuren",
+			"Bedlington Terrier'",
+			"Beauceron Shepherd'",
+			"Beauceron Shepherd",
+			"Basset",
+			"American Staffordshire Terrier",
+			"Affenpinscher",
+			"Xoloitzcuintli, Mexican Hairless",
+			"and",
+			"value=\"Q\"",
+			"value=\"\"",
+			"<input class='quiz-button' type='radio' name='Q2' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q2' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q2' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q2' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q2' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#3:  Allergy Sufferers:  Hypo-Allergenic/Low Shedding Considerations\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q3' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q3' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#4:  1st Time Dog Owner, or Experienced Dog Owner?\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q4' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q4' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q4' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#5:   How Energetic Do You Want Your Dog To Be?\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q5' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q5' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q5' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q5' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#6:   Your Home/ Living Arrangements:  \n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q6' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q6' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q6' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q6' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#7.   Will This Dog be Your Only Pet, or Are There Other Household Pets?\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q7' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q7' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q7' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#8:    How Social or Independent Do You Prefer Your Dog To Be?\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q8' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q8' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q8' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#9:  Trainability and Intelligence Factor\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q9' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q9' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q9' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#10:  Child Friendly Requirements\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q10' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q10' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q10' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q10' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#11:  Grooming/ Maintenance Considerations\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q11' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q11' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q11' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n			<li class='quiz-question'>#12:   Protection ~ Guard Instincts/Interests\n				<ul class='quiz-answers'>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q12' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q12' value=\"Q1A1\">\n\n					</li>\n					<li class='quiz-answer'>\n						<input class='quiz-button' type='radio' name='Q12' value=\"Q1A1\">\n\n					</li>\n				</ul>\n			</li>\n		</ol>\n	</form>\n</div>",
+			"input class='quiz-button' type="
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								719
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodesock.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Eeda\\Desktop\\NodeProject\\bookAPI.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
